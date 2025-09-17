@@ -1,0 +1,2 @@
+# DETALLEPARATI
+el primer detalle 
